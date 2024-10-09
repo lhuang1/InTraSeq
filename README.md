@@ -5,7 +5,7 @@ This repository contains code for the InTraSeq paper:
 Ariss, M.M., Huang, L., Ding, X., Sheth, S., Levy, T., Fisher, J., Loebelenz, J., Arlotta, K., Dixon, K., Polakiewicz, R. and Kuchroo, V.K., 2024. InTraSeq: A Multimodal Assay that Uncovers New Single-Cell Biology and Regulatory Mechanisms. bioRxiv, pp.2024-09.
 
 
-`
+```
 > SessionInfo()
 R version 4.3.3 (2024-02-29)
 Platform: x86_64-redhat-linux-gnu (64-bit)
@@ -76,4 +76,4 @@ loaded via a namespace (and not attached):
 [133] spatstat.geom_3.2-5       RcppHNSW_0.5.0            hms_1.1.3                 patchwork_1.1.3          
 [137] future_1.33.1             Rhdf5lib_1.22.1           shiny_1.9.1               highr_0.11               
 [141] igraph_2.0.2              bslib_0.8.0 
-`
+```
